@@ -1,4 +1,4 @@
-# Matrix-operations-linear-algebra-with-NumPy-
+# Matrix-operations-linear-algebra-with-NumPy
 # EXPERIMENT - 1
 
 ## AIM
