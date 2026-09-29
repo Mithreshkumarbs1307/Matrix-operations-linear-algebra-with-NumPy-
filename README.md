@@ -210,7 +210,7 @@ np.linalg.inv(A).dot(b)
 
 ---
 
-## SAMPLE OUTPUT
+## OUTPUT
 
 ```text
 Matrix A:
