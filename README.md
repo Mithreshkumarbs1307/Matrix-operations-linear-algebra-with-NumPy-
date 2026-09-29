@@ -1,8 +1,7 @@
 # Matrix-operations-linear-algebra-with-NumPy-
 EXPERIMENT - 1
 #AIM: 
-Introduce matrix operations used in ML: transpose, inverse, solve linear systems, eigen 
-decomposition. 
+Introduce matrix operations used in ML: transpose, inverse, solve linear systems, eigen decomposition. 
 #ALGORITHM (brief): 
 Direct use of numpy.linalg routines; relate to linear regression normal equations.
 #PROGRAM (run in a Jupyter code cell): 
